@@ -8,3 +8,4 @@ pdf2image
 PyMuPDF
 fpdf
 google-generativeai
+google-genai
